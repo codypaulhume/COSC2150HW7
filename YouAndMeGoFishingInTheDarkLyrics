@@ -3,4 +3,5 @@
 int main()
 {
   cout << "You and me go fishing in the dark, lying on our backs and counting the stars." << endl;
+  cout << "Where the cool grass grows." << endl;
 }
